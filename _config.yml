@@ -11,6 +11,13 @@ color:
     - '#A7C520'
     - '#493F0B'
 layout_spectrum: 0.23135804221965373
+author:
+  name: Christopher Gay
+  email: iwiretechnologies@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4142cdac-9ee2-4b2a-b138-c0147ef4fc39.png
 name: iwireVISION
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f8b3cf4-a299-4ee0-a08e-3871695e228b.png
 title: Think-a-teria
 description: Put on your thinking Cap
