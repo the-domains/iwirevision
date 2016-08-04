@@ -1,4 +1,3 @@
-layout_spectrum: 0.23135804221965373
 typography_spectrum: 0.5540093693416566
 color:
   brandStrength: 0.6990652293898165
@@ -11,5 +10,7 @@ color:
     - '#F5F6D4'
     - '#A7C520'
     - '#493F0B'
+layout_spectrum: 0.23135804221965373
 name: iwireVISION
 title: Think-a-teria
+description: Put on your thinking Cap
